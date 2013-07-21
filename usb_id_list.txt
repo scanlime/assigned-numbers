@@ -1,8 +1,9 @@
-I have no USB vendor ID, and no desire to
-pay big bucks to get an official vendor ID.
-So, I chose the random number 0xE461. This
-file allocates product IDs within this
-vendor ID:
+Vendor 0xE461
+-------------
+
+These are product IDs I self-assigned under the bogus vendor ID 0xE461.
+These are for development and prototyping purposes only. These IDs are
+not officially recognized by the USB-IF.
 
 0001  Media Infrawidget 6000
 0002  Remote Controlled PIC of Doom
@@ -24,5 +25,12 @@ vendor ID:
 0012  Therm receiver (bootloader mode)
 0013  Playstation memory card reader
 0014  twlfpga (DSi RAM Tracer)
-0015  Fadecandy LED controller
 
+Vendor 0x1D50
+-------------
+
+Product IDs assigned to me via OpenMoko.
+
+http://wiki.openmoko.org/wiki/USB_Product_IDs
+
+607A  Fadecandy LED controller
