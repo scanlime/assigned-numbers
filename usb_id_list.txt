@@ -25,6 +25,7 @@ not officially recognized by the USB-IF.
 0012  Therm receiver (bootloader mode)
 0013  Playstation memory card reader
 0014  twlfpga (DSi RAM Tracer)
+0015  MultiDAC audio interface (FT2232H)
 
 Vendor 0x1D50
 -------------
